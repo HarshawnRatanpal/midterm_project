@@ -28,7 +28,7 @@ for the indictment of a U.S. House Representative on campaign finance fraud char
 inspired me to become an investigative reporter, the path I'm now. 
 
 ## Gaia
-![gaia.jpg](https://i.imgur.com/jWnOCxd.jpeg)
+![gaia.jpg](https://i.imgur.com/jWnOCxd.jpeg) ![gaia2.jpg](IMG_2897.jpeg)
 
 I began fostering for an organization called Second Chance in Columbia. My first dog was a pitbull mix named Gaia. 
 Gaia was not treated properly when she was a pup, which led to a myriad of health issues throughout her life.
