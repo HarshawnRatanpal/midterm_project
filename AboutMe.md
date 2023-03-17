@@ -6,18 +6,18 @@ I'm Harshawn Ratanpal, and I am a journalist from San Diego currently studying i
 
 My journalistic specialties include community reporting, longfrom interviews, and investigative reporting. 
 
-## Why Journalism
+## Why Journalism?
 
 I had many inspirtations for getting into journalism. 
 
 First, I fell in love with telling stories in the fifth grade. In class, we were divided into three groups for spelling tests,
 and when one group was taking their test, the other two were tasked with writing, something I'd never taken an interest in. 
 I created a story about a man who had gained super powers and was struggling to decide between doing the right thing and abusing his powers.
-About mid-way through the year, my teacher said to me "how did you learn to be such a good writer?" which shocked me. I had only ever really had a passion
+About mid-way through the year, my teacher said to me "how did you learn to be such a good writer?" which **shocked** me. I had only ever really had a passion
 for math, so when she said that, it really made an impact, and it taught me at a young age that the things I think I'm good at and the things I think
 I'm bad at are variables, not constants. That one remark she made changed my entire life's trajectory. 
 
-A bit later, I got really into video games, particularly one called inFAMOUS 2. I was so obsessed with the game's plot that I wanted to learn
+A bit later, I got really into video games, particularly one called *inFAMOUS 2*. I was so obsessed with the game's plot that I wanted to learn
 everything I could about the game, so I looked it up online, where I found tons of articles and reviews about it,
 including [this review](https://www.ign.com/articles/2011/05/27/infamous-2-review-2) from IGN, a video game news site. 
 I had no idea that this merging of two of my passions, writing and video games, existed, so I decided that day that I wanted to be a video game journalist. 
