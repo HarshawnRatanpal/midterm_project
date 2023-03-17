@@ -24,3 +24,12 @@ San Diego, California.<br>
 - *Aug. 2020 - May 2024*
 - Dual Major: Journalism (B.J) and Economics (B.S.)
 - GPA: 3.9
+***
+#### Learn all about Harshawn by using this site navigator!
+<ol>
+  <li>Home</li>
+  <li>Work and Education</li>
+  <li>Contact Me</li>
+  <li>More about Me</li>
+  <li>Hobbies and Interests</li>
+</ol>  
