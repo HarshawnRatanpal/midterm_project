@@ -1,4 +1,4 @@
-# About Me
+# More About Me
 
 ![profile-picture.jpg](https://kcou.fm/wp-content/uploads/2021/09/ABE87A91-5EC6-42BE-A252-7AF3127B77C7-Harshawn-Ratanpal-1-485x485.jpeg)
 
@@ -44,6 +44,13 @@ the people are incredibly hospitable and the culture is fascinating. I cannot wa
 ![mong_one.jpg](https://i.imgur.com/sqAhx0d.jpg)
 ![mong_two.jpg](https://i.imgur.com/zWPtSRd.jpg)
 ![mong_three.jpg](https://i.imgur.com/INTm1KN.jpg)
-
-
+*** 
+#### Learn all about Harshawn by using this site navigator!
+<ol>
+  <li>Home</li>
+  <li>Work and Education</li>
+  <li>Contact Me</li>
+  <li>More about Me</li>
+  <li>Hobbies and Interests</li>
+</ol>  
 
