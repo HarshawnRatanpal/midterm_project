@@ -7,6 +7,7 @@ He is currently studying in Washington D.C. and working as a reporting intern fo
 
 #### Learn all about Harshawn by using this site navigator!
 <ol>
+  <li>Home</li>
   <li>Work and Education</li>
   <li>Contact Me</li>
   <li>More about Me</li>
