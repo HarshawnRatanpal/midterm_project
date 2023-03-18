@@ -71,3 +71,13 @@ if (shape == "3"):
     total = cone()
 
 </pre>
+
+*** 
+#### Learn all about Harshawn by using this site navigator!
+<ol>
+  <li>Home</li>
+  <li>Work and Education</li>
+  <li>Contact Me</li>
+  <li>More about Me</li>
+  <li>Hobbies and Interests</li>
+</ol>  
