@@ -27,7 +27,7 @@ ranked in order by how much I liked them.
 
 ## Math and Coding
 Through taking this IT class, I've been able to learn much more about coding then I knew before. One of favorite assignments was the below Python
-assignment from earlier in the semster, where the volume of various 3d shapes could be calculated. 
+assignment from earlier in the semster, where the volume of various 3D shapes could be calculated. 
 
 <pre>
 
