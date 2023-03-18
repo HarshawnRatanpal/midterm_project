@@ -30,8 +30,8 @@ Through taking this IT class, I've been able to learn much more about coding the
 assignment from earlier in the semster, where the volume of various 3d shapes could be calculated. 
 
 <pre>
-```python
-// print("Calculating the Volume of a Cube, Cylinder or Cone: ")
+
+print("Calculating the Volume of a Cube, Cylinder or Cone: ")
 import math
 
 print ("Choose an option below ")
@@ -69,5 +69,5 @@ if (shape == "2"):
     
 if (shape == "3"):
     total = cone()
-```
+
 </pre>
