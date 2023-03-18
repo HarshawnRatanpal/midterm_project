@@ -2,19 +2,19 @@
 
 ## Journalism
 
-### OpenSecrets, Reporting Intern 
+### [OpenSecrets](opensecrets.org), Reporting Intern 
 Washinton D.C.<br>
 *Jan. 2023 - present*
 
-### Columbia Missourian and KBIA 91.3 FM, Reporter
+### [Columbia Missourian](https://www.columbiamissourian.com/) and [KBIA 91.3 FM](https://www.kbia.org/), Reporter
 Columbia, Missouri <br>
 *August 2022 - December 2022*
 
-### KCOU 88.1 FM, News Director
+### [KCOU 88.1 FM](https://kcou.fm/), News Director
 Columbia, Missouri <br>
 *August 2020 - December 2022*
 
-### San Diego Union-Tribune, Reporting Intern 
+### [San Diego Union-Tribune](https://www.sandiegouniontribune.com/), Reporting Intern 
 San Diego, California.<br>
 *June 2020 - Aug. 2020*
 
