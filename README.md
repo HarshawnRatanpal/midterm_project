@@ -14,7 +14,7 @@ He is currently studying in Washington D.C. and working as a reporting intern fo
 * [Work and Education](Work.md)
 * [Contact Me](Contact.md)
 * [About Me](AboutMe.md)
-* [Hobbies and Interests](Hobbies)
+* [Hobbies and Interests](Hobbies.md)
   
   
   
