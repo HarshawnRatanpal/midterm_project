@@ -10,11 +10,11 @@ He is currently studying in Washington D.C. and working as a reporting intern fo
   
 *** 
 #### Learn all about Harshawn by using this site navigator!
-* Home
-* Work and Education
-* Contact Me
-* More about Me
-* Hobbies and Interests
+* [Home](README.md)
+* [Work and Education](Work.md)
+* [Contact Me](Contact.md)
+* [About Me](AboutMe.md)
+* [Hobbies and Interests](Hobbies)
   
   
   
