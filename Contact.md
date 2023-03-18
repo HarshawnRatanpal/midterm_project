@@ -12,7 +12,7 @@ Send me an email at [harshawnratanpal@gmail.com](mailto:harshawnratanpal@gmail.c
 - [Twitter](https://twitter.com/ratanpalh)
 - [Instagram](https://www.instagram.com/the_lapnatar/)
 *** 
-  
+[Previous](Work.md) | [Next](AboutMe.md)
 *** 
 #### Learn all about Harshawn by using this site navigator!
 * [Home](README.md)
