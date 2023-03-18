@@ -45,7 +45,7 @@ the people are incredibly hospitable and the culture is fascinating. I cannot wa
 ![mong_two.jpg](https://i.imgur.com/zWPtSRd.jpg)
 ![mong_three.jpg](https://i.imgur.com/INTm1KN.jpg)
 ***
-[Previous](About_Me.md)
+[Previous](Contact.md) | [Next](Hobbies.md)
 *** 
 #### Learn all about Harshawn by using this site navigator!
 * [Home](README.md)
