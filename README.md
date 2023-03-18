@@ -1,6 +1,6 @@
 # Midterm Project Home
 ## All about Harshawn Ratanpal
-### Basic Info
+### The Basics
 Harshawn is a journalist from San Diego.
 
 He is a third-year undergraduate student at the University of Missouri.
