@@ -2,7 +2,7 @@
 
 ## Journalism
 
-### [OpenSecrets](opensecrets.org), Reporting Intern 
+### [OpenSecrets](https://www.opensecrets.org), Reporting Intern 
 Washinton D.C.<br>
 *Jan. 2023 - present*
 
